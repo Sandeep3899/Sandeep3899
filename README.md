@@ -1,7 +1,5 @@
 Hello! I'm Sandeep, Welcome to my GitHub corner
 
-- 🔭 I’m currently working on SECURE ELECTRONIC VOTING SYSTEMS: ENHANCING INTEGRITY AND PRIVACY THROUGH ADVANCED CRYPTOGRAPHY
-
 - 🤔 I’m looking for Full Time Job oppurtunities as Software Developer/Front-End Developer
 
 - 📫 Connect with me:
