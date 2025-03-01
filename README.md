@@ -12,9 +12,6 @@ I'm passionate about building scalable applications, optimizing APIs, and workin
 - **Version Control:** Git, GitHub  
 - **Methodologies:** Agile, Scrum, CI/CD  
 
-![Sandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandeep3899&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep3899&layout=compact&theme=radical)
-
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sandeep-reddy-yeruva-774a26209/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Sandeep3899)  
