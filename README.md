@@ -1,25 +1,26 @@
 # Hi, I'm Sandeep Reddy Yeruva! 👋
 
-💻 Software Engineer | Full Stack Developer | Cloud & DevOps Enthusiast  
+💻 Software Engineer | Full Stack Developer | Cloud-Native Systems Enthusiast
 
-I'm passionate about building scalable, high-performance applications and engineering solutions that make a real impact. With hands-on experience in Python, React.js, Node.js, .NET, and cloud platforms like AWS and Azure, I enjoy solving backend challenges, optimizing APIs, and creating seamless user experiences. I’ve contributed to both enterprise-grade systems and innovative academic projects, and I love collaborating on open-source tools and learning from the developer community.
+I'm a Full Stack Software Engineer with 3.5+ years of experience delivering secure, scalable, and cloud-native applications across fintech, healthcare, and IT services. I specialize in Java, Spring Boot, React.js, and AWS, and have led development of high-impact features like real-time banking APIs, KYC workflows, and microservice deployments. I thrive in Agile teams, enjoy owning features end-to-end, and love solving backend challenges while crafting responsive UIs. I’m driven by clean code, automation, and building systems that actually make users' lives better.
 
 🔧 Technologies & Tools
 
-**Languages:** Python, JavaScript, TypeScript, C#, Java, .NET, HTML, CSS
-
-**Frameworks & Libraries:** React.js, Django, FastAPI, Flask, Pyfhel (Homomorphic Encryption)
-
-**Databases:** PostgreSQL, MySQL, SQLite, MongoDB
-
-**Cloud & DevOps:** AWS (Lambda, S3, EC2, CloudWatch), Azure, Docker, Kubernetes, GitHub Actions, CodePipeline, Jenkins, Grafana
-
-**Version Control & Tools:** Git, GitHub, Bitbucket, JIRA, Confluence, Figma
-
-**Methodologies:** Agile, Scrum, CI/CD, TDD
+**Programming Languages:** Java, JavaScript, Python, TypeScript, Bash, Shell, C#, C++, Groovy
+**Frontend Technologies:** HTML5, CSS3, Bootstrap, JavaScript, React, Redux, React Hooks, Angular, NodeJS, AJAX
+**Backend & Frameworks:** Spring Boot, Spring MVC, Spring Batch, Spring Cloud, Spring Security, Spring IOC, Hibernate
+**Messaging & Event Streaming:** Apache Kafka, Spring Kafka API, RabbitMQ, Apache ActiveMQ
+**Cloud Platforms:** AWS (EC2, S3, Lambda, EKS, ECS, Cloud Foundry), Microsoft Azure, Google Cloud Platform (GCP)
+**Containerization & Orchestration:** Docker, Kubernetes
+**Databases:** MySQL, MongoDB, PostgreSQL, SQL Server, DynamoDB, H2, NoSQL, Cassandra
+**DevOps & CI/CD Tools:** Jenkins, Git, GitHub, Bitbucket, Maven, Gradle, Terraform, CI/CD Pipelines, Code Review
+**Monitoring & Logging:** Amazon CloudWatch, Splunk, New Relic, log4j
+**Testing & Documentation:** JUnit, Mockito, Postman, Swagger, SonarQube
+**Project & Agile Tools:** Agile (Scrum), Jira, Confluence, Atlassian
+**Operating Systems:** Linux, UNIX, Windows
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sandeep-reddy-yeruva-774a26209/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Sandeep3899)  
 Portfolio: https://sandeep3899.github.io/Portfolio/
-📩 Email: sandeepreddyeruva@gmail.com  
+📩 Email: sandep.yeruva@gmail.com  
