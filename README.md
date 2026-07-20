@@ -1,37 +1,81 @@
-# Hi, I'm Sandeep Reddy Yeruva! 👋
+# Hi, I'm Sandeep Reddy Yeruva 👋
 
-💻 Software Engineer | Full Stack Developer | Cloud-Native Systems Enthusiast
+**Full Stack Software Engineer | Java, Spring Boot, React & AWS**
 
-I'm a Full Stack Software Engineer with 3.5+ years of experience delivering secure, scalable, and cloud-native applications across fintech, healthcare, and IT services. I specialize in Java, Spring Boot, React.js, and AWS, and have led development of high-impact features like real-time banking APIs, KYC workflows, and microservice deployments. I thrive in Agile teams, enjoy owning features end-to-end, and love solving backend challenges while crafting responsive UIs. I’m driven by clean code, automation, and building systems that actually make users' lives better.
+I am a Full Stack Software Engineer with 4+ years of experience building secure, scalable, and cloud-native applications across financial services, enterprise platforms, healthcare, and AI-enabled systems.
 
-🔧 Technologies & Tools
+My primary focus is developing backend services and full-stack applications using **Java, Spring Boot, React, Angular, SQL, and AWS**. I have worked on digital banking features, REST APIs, microservices, authentication workflows, data pipelines, automated testing, and Kubernetes-based deployments.
 
-**Programming Languages:** Java, JavaScript, Python, TypeScript, Bash, Shell, C#, C++, Groovy
+I enjoy owning features end-to-end—from API and database design to frontend integration, testing, deployment, and production support.
 
-**Frontend Technologies:** HTML5, CSS3, Bootstrap, JavaScript, React, Redux, React Hooks, Angular, NodeJS, AJAX
+## What I Work On
 
-**Backend & Frameworks:** Spring Boot, Spring MVC, Spring Batch, Spring Cloud, Spring Security, Spring IOC, Hibernate
+* Building REST APIs and microservices with Java and Spring Boot
+* Developing responsive applications with React and Angular
+* Designing secure authentication workflows using OAuth 2.0 and JWT
+* Deploying cloud-native applications on AWS
+* Automating builds and deployments with CI/CD pipelines
+* Improving application performance, reliability, and test coverage
+* Developing AI-enabled workflows using AWS Bedrock, RAG, and vector search
 
-**Messaging & Event Streaming:** Apache Kafka, Spring Kafka API, RabbitMQ, Apache ActiveMQ
+## Technical Skills
 
-**Cloud Platforms:** AWS (EC2, S3, Lambda, EKS, ECS, Cloud Foundry), Microsoft Azure, Google Cloud Platform (GCP)
+### Languages
 
-**Containerization & Orchestration:** Docker, Kubernetes
+`Java` `Ruby` `JavaScript` `Python` `SQL`
 
-**Databases:** MySQL, MongoDB, PostgreSQL, SQL Server, DynamoDB, H2, NoSQL, Cassandra
+### Backend
 
-**DevOps & CI/CD Tools:** Jenkins, Git, GitHub, Bitbucket, Maven, Gradle, Terraform, CI/CD Pipelines, Code Review
+`Spring Boot` `Spring MVC` `Spring Security` `Ruby on Rails` `REST APIs` `Microservices` `Hibernate`
 
-**Monitoring & Logging:** Amazon CloudWatch, Splunk, New Relic, log4j
+### Frontend
 
-**Testing & Documentation:** JUnit, Mockito, Postman, Swagger, SonarQube
+`React` `Angular` `HTML5` `CSS3` `JavaScript` `Redux`
 
-**Project & Agile Tools:** Agile (Scrum), Jira, Confluence, Atlassian
+### Databases
 
-**Operating Systems:** Linux, UNIX, Windows
+`PostgreSQL` `MySQL` `MongoDB` `Oracle SQL` `DynamoDB`
+
+### Cloud and DevOps
+
+`AWS` `Docker` `Kubernetes` `Terraform` `Jenkins` `GitHub Actions` `Helm` `ArgoCD`
+
+### AWS Services
+
+`EC2` `ECS` `EKS` `Lambda` `S3` `API Gateway` `SQS` `DynamoDB` `Bedrock` `SageMaker`
+
+### Testing and Tools
+
+`JUnit` `Mockito` `RSpec` `Jest` `Cypress` `Postman` `Maven` `Git`
+
+### AI Systems
+
+`Retrieval-Augmented Generation` `Model Context Protocol` `Vector Embeddings` `Semantic Search` `LLM Integrations`
+
+## Current Focus
+
+I am currently working on:
+
+* Ruby on Rails APIs for AI-agent platforms
+* Secure Model Context Protocol authorization workflows
+* Retrieval-augmented generation using AWS Bedrock Knowledge Bases
+* Vector APIs for semantic search and embedding generation
+* Cloud infrastructure using AWS, Terraform, and Kubernetes
+
+## Professional Interests
+
+* Full-stack application development
+* Backend and API engineering
+* Distributed and cloud-native systems
+* Developer productivity and automation
+* AI-assisted enterprise applications
+* Application performance and reliability
+
+---
+
+Thanks for visiting my profile!
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sandeep-reddy-yeruva-774a26209/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Sandeep3899)  
-Portfolio: https://sandeep3899.github.io/Portfolio/
-📩 Email: sandep.yeruva@gmail.com  
+Linkedin: https://www.linkedin.com/in/sandeep-reddy-yeruva
+📩 Email: yeruva.sandep@gmail.com  
